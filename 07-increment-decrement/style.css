@@ -1,0 +1,11 @@
+section{
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    margin: 0 auto;
+    margin-top: 20px;
+}
+button img{
+    max-width: 40px;
+}
